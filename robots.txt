@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gym.ajaynxt.com/sitemap.xml
